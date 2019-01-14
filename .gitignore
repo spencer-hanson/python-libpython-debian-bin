@@ -1,0 +1,4 @@
+deb_dist
+*.egg-info
+build/*
+dist/*
